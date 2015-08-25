@@ -1,0 +1,40 @@
+#Documentation for Scroll plugin.
+
+= 简介 =
+
+纯粹个人喜好.
+当条目数量小于或等于displayNum时,忽略滚动
+
+
+= 使用说明 =
+
+html代码：
+{{{
+<div id="scroller_2" class="show_scroll">
+	<span class="left_scroll"></span>
+	<div class="con" id="scrollcom">
+		<ul>
+			<li class="box"></li>
+			<li class="box"></li>
+			<li class="box"></li>
+			<li class="box"></li>
+			<li class="box"></li>
+			<li class="box"></li>
+		</ul>
+	</div>
+	<span class="right_scroll"></span>
+</div>
+}}}
+
+js代码
+{{{
+$('#scroller_2').scroll({displayNum:5,scrollNum:1,duration:600,continuous:true});
+}}}
+
+到目前为止一共有3个参数:
+  * displayNum，显示图片的个数
+  * scrollNum，一次滚动的个数
+  * duration，滚动速度
+  * continuous，是否连续滚动
+  * timer，滚动间隔
+-

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messagebundle>
+  <msg name="hello_world"> 
+    你好世界
+  </msg> 
+  <msg name="api_domain"> 
+    www.google.cn
+  </msg>
+  <msg name="newsSerach_lang"> 
+    cn
+  </msg>
+  <msg name="webSerach_lang"> 
+    lang_zh_CN
+  </msg>
+  <msg name="weather_lang"> 
+    zh_cn
+  </msg>
+  <msg name="video_source"> 
+    youku.com
+  </msg>
+  <msg name="minutes_ago"> 
+    分钟前
+  </msg>
+  <msg name="hours_ago"> 
+    小时前
+  </msg>
+  <msg name="days_ago"> 
+    天前
+  </msg>
+  <msg name="months_ago"> 
+    月前
+  </msg>
+  <msg name="wiki_function"> 
+    getHudong
+  </msg>
+</messagebundle> 

@@ -1,0 +1,11 @@
+#自动完成插件.
+
+= Introduction =
+
+刚开始写.
+
+
+= Details =
+
+使用方法:
+  * $('#autoInput').autoComplete({requestDelay:1000,closeDelay:10000});

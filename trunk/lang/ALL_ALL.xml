@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messagebundle>
+  <msg name="hello_world"> 
+    Hello World
+  </msg> 
+  <msg name="api_domain"> 
+    www.google.com
+  </msg>
+  <msg name="newsSerach_lang"> 
+    us
+  </msg>
+  <msg name="webSerach_lang"> 
+    lang_en
+  </msg>
+  <msg name="weather_lang"> 
+    en_us
+  </msg>
+  <msg name="video_source"> 
+    youtube.com
+  </msg>
+  <msg name="minutes_ago"> 
+    minutes ago
+  </msg>
+  <msg name="hours_ago"> 
+    hours ago
+  </msg>
+  <msg name="days_ago"> 
+    days ago
+  </msg>
+  <msg name="months_ago"> 
+    months ago
+  </msg>
+  <msg name="wiki_function"> 
+    getFreebase
+  </msg>
+</messagebundle> 
